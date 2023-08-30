@@ -1509,17 +1509,17 @@ a:hover {
   transform: rotateY(180deg);
   transition: all 400ms ease-out 0s;
 }
-@media (max-width: 768px) {
+@media (max-width: 150px) {
   .social-icon ul li a i {
     line-height: 55px;
     font-size: 25px;
   }
 }
 
-@media(max-width:564px){
+@media(max-width:150px){
   #our-team > div > div > div:nth-child(2) > div > div.member-photo
   {
-    width: 800px;
+    width: 439px;
   }
 }
 
